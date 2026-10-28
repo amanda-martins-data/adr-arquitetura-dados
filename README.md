@@ -8,9 +8,8 @@ fixo: contexto, opções consideradas (com prós e contras reais, não
 só a opção vencedora), decisão e consequências — inclusive as
 negativas.
 
-Projeto 07 de uma série que documenta minha transição de Analista de
-Dados para Arquitetura de Dados — veja o [perfil
-completo](https://github.com/amanda-martins-data).
+Projeto 07 do meu portfólio de Engenharia e Arquitetura de Dados — veja o
+[perfil completo](https://github.com/amanda-martins-data).
 
 ## Por que um repositório de ADRs
 
